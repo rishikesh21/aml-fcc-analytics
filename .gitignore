@@ -1,0 +1,11 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+Logic_TM_Test.xlsx
+
+*.zip
