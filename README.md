@@ -1,6 +1,6 @@
 # Weekly Alert Pipeline Readme
 
-This document outlines the structure and logic of the weekly alert pipeline, including the data linking process, the core alerting mechanism, the generated outputs, and a crucial data/configuration finding related to Mod3.
+This document outlines the structure and logic of the weekly alert pipeline, including the data linking process, the core alerting mechanism, the generated outputs, and a crucial data/configuration finding related to **Mod3**.
 
 ---
 
